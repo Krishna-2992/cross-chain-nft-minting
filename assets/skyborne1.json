@@ -1,0 +1,95 @@
+{
+    "name": "Emberling Mage III #7",
+    "external_url": "https://skybornegenesis.com",
+    "attributes": [
+    {
+    "trait_type": "Rarity",
+    "value": "Uncommon"
+    },
+    {
+    "trait_type": "Species",
+    "value": "Emberling"
+    },
+    {
+    "trait_type": "Elemental Affinity",
+    "value": "Pyroflame"
+    },
+    {
+    "trait_type": "Elemental Tier",
+    "value": 1,
+    "display_type": "number"
+    },
+    {
+    "trait_type": "Class",
+    "value": "Mage"
+    },
+    {
+    "trait_type": "Rank",
+    "value": 3,
+    "display_type": "number"
+    },
+    {
+    "trait_type": "Leader",
+    "value": "False"
+    },
+    {
+    "trait_type": "Weapon Type",
+    "value": "Staff"
+    },
+    {
+    "trait_type": "Weapon Tier",
+    "value": 2,
+    "display_type": "number"
+    },
+    {
+    "trait_type": "Damage Type",
+    "value": "Magic"
+    },
+    {
+    "trait_type": "Role",
+    "value": "Support"
+    },
+    {
+    "trait_type": "Companion",
+    "value": "None"
+    },
+    {
+    "trait_type": "Expression",
+    "value": "Happy"
+    },
+    {
+    "trait_type": "Eye Color",
+    "value": "Amber"
+    },
+    {
+    "trait_type": "Hair Color",
+    "value": "Ash"
+    },
+    {
+    "trait_type": "Hairstyle",
+    "value": "Trickster Bun"
+    },
+    {
+    "trait_type": "Weapon",
+    "value": "Augur's Armament"
+    },
+    {
+    "trait_type": "Outfit",
+    "value": "Soothsayer's Guise"
+    },
+    {
+    "trait_type": "Headgear",
+    "value": "None"
+    },
+    {
+    "trait_type": "Background",
+    "value": "Pryostone"
+    },
+    {
+    "trait_type": "Background Type",
+    "value": "Nexian Gem"
+    }
+    ],
+    "image": "https://nft-assets.skybornegenesis.com/immortals/654.png",
+    "description": "Genesis Immortals are Skyborne Legacy’s first and most elite group of heroes. In the Skyborne Genesis mini-game, your heroes can embark upon quests and will earn rewards that are transferable to Skyborne Legacy’s future titles."
+    }
